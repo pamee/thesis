@@ -8,13 +8,13 @@ About the topic
 ---------------
 Importance of anti-aliasing has increased with the growing popularity of consumer VR devices.
 "You have to use MSAA" was a sentence repeatedly mentioned in various "How to do VR" presentations.
-But there was no mentioning why nor no comparisons against other anti-aliasing methods.
+But there was no mentioning why nor comparisons against other anti-aliasing methods.
 This inspired me to select this particular topic.
 
 The aim of the thesis was to explore different anti-aliasing algorithms and comparing them *subjectively*
-against each other --- which I believe is very underrated in the computer graphics research!
+against each other -- which I believe is very underrated in the computer graphics research!
 
-However, this thesis --- as done in very limited time with very limited resources --- does
+However, this thesis -- as done in very limited time with very limited resources -- does
 not give definitive answer why MSAA appears superior and why or when we should definitely use anti-alising,
 but it is a starting point.
 
