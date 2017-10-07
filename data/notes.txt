@@ -1,0 +1,11 @@
+A few notes about R-scripts and data.
+
+Data:
+The collected data (results.csv) is described in thesis, but to clarify
+the first column in data indicates the group of test pattern which was used with
+the particular participant. The test pattern is a certain randomised pattern of anti-aliasing
+ methods and their settings, for example "FXAA, TAA, 4xMSAA, FXAA, 2xMSAA, TAA...".
+
+Scripts:
+manipulation.r was used to execute manipulation tests and analysis.r for analising.
+Both described in thesis.
